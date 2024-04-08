@@ -1,0 +1,5 @@
+github saxon ->cartafol java ->12.4J
+extraer
+instalar xslt delta (verde) VSC
+>preferences open user settings ->pegar ruta del primer archivo saxon-he-12.4.jar
+terminal -> run buid task

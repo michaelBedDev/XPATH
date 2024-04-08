@@ -195,7 +195,7 @@ Name of the students thats are doing a project
 //student[studies/project]/name/text()
 
 Codes of the degrees in which some students are enrolled
-//degree/@code 
+//degree/@code
 
 Surnames and names of the students with scholarships
 concat(//student[@scolarship]/name," ",
@@ -227,8 +227,21 @@ Surnames of all males
 //student[gender = "Home"]/first_surname/text() | //student[gender = "Home"]/second_surname/text()
 
 Name of the degree that Víctor Manuel is studying
+//degree[@id = //student[name="Víctor Manuel"]/studies/degree/@code]/name/text()
+
 Name of the subjects studied by Luisa
+//subject[@id= //student[name = "Luisa"]/studies/subjects/subject/@code]/name/text()
+
 First surname of the students enrolled in Enxeñaría do Software
+//student[studies/subjects/subject/@code = //subject[name = "Enxeñaría do Software"]/@id]/first_surname/text()
+
 Name of the degrees studied by the students enrolled in Tecnoloxía dos alimentos
+
 Name of the students who are enrolled in subjects with 0 practical credits and who are studying a degree in E.T. Informática
+
 Name of students taking pre-2002 degrees
+
+
+
+//subject[name = "Tecnoloxía dos Alimentos"]
+[@id = //student/studies/subjects/subject/@code]
