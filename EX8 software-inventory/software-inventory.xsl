@@ -11,17 +11,20 @@
             </head>
             <body>
                 <ul>
-                    <li><xsl:apply-templates select="inventory/product"/></li>
+                    <xsl:apply-templates select="inventory/product"/>
                 </ul>
             </body>
         </html>
     </xsl:template>
 
     <xsl:template match="product">
-    <ul>
-        <li><xsl:value-of select="name/text()"/></li>
-        <li><xsl:value-of select="weight"/></li>
-    </ul>
+        <li>
+            <p>Product: <xsl:value-of select="@code"/> </p>
+            <ul>
+                <li>Name: <xsl:value-of select="name/text()"/></li>
+                <li>Weight: <xsl:value-of select="weight"/></li>
+            </ul>
+        </li>
     </xsl:template>
 
 </xsl:stylesheet>
