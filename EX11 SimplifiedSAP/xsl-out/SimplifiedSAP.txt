@@ -1,0 +1,2723 @@
+
+        SAP ID: 1
+        Title: Caledonian Mercury
+        Date 
+            Year: 1811
+            Month: 08
+            Day: 26 
+
+        SAP ID: 2
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 01
+            Day: 05 
+
+        SAP ID: 3
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 01
+            Day: 05 
+
+        SAP ID: 4
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 07
+            Day: 13 
+
+        SAP ID: 5
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 07
+            Day: 20 
+
+        SAP ID: 6
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 07
+            Day: 20 
+
+        SAP ID: 7
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 07
+            Day: 20 
+
+        SAP ID: 8
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 07
+            Day: 06 
+
+        SAP ID: 9
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 21 
+
+        SAP ID: 10
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 21 
+
+        SAP ID: 11
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 24 
+
+        SAP ID: 12
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 24 
+
+        SAP ID: 13
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 28 
+
+        SAP ID: 14
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 28 
+
+        SAP ID: 15
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 03 
+
+        SAP ID: 16
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 31 
+
+        SAP ID: 17
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 08
+            Day: 07 
+
+        SAP ID: 18
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 21 
+
+        SAP ID: 19
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 02 
+
+        SAP ID: 20
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 09 
+
+        SAP ID: 21
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 09 
+
+        SAP ID: 22
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 09 
+
+        SAP ID: 23
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 09 
+
+        SAP ID: 24
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 10
+            Day: 09 
+
+        SAP ID: 25
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 20 
+
+        SAP ID: 26
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 23 
+
+        SAP ID: 28
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 23 
+
+        SAP ID: 29
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 23 
+
+        SAP ID: 31
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 27 
+
+        SAP ID: 32
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 11 
+
+        SAP ID: 33
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 11 
+
+        SAP ID: 34
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 11 
+
+        SAP ID: 35
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 36
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 37
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 38
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 40
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 41
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 42
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 14 
+
+        SAP ID: 43
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 44
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 45
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 46
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 47
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 48
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 18 
+
+        SAP ID: 49
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 21 
+
+        SAP ID: 50
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 21 
+
+        SAP ID: 51
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 25 
+
+        SAP ID: 52
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 25 
+
+        SAP ID: 53
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 04 
+
+        SAP ID: 54
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 04 
+
+        SAP ID: 55
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 07 
+
+        SAP ID: 56
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 07 
+
+        SAP ID: 57
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 07 
+
+        SAP ID: 58
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 12
+            Day: 07 
+
+        SAP ID: 59
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 01
+            Day: 01 
+
+        SAP ID: 60
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 01
+            Day: 04 
+
+        SAP ID: 61
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 01
+            Day: 04 
+
+        SAP ID: 62
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 01
+            Day: 04 
+
+        SAP ID: 63
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 01
+            Day: 04 
+
+        SAP ID: 64
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 04
+            Day: 16 
+
+        SAP ID: 65
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 07
+            Day: 12 
+
+        SAP ID: 67
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 07
+            Day: 12 
+
+        SAP ID: 68
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 07
+            Day: 09 
+
+        SAP ID: 69
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 08
+            Day: 16 
+
+        SAP ID: 70
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 09
+            Day: 17 
+
+        SAP ID: 71
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 10
+            Day: 04 
+
+        SAP ID: 72
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 15 
+
+        SAP ID: 73
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 19 
+
+        SAP ID: 74
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 19 
+
+        SAP ID: 76
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 22 
+
+        SAP ID: 78
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 26 
+
+        SAP ID: 80
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 26 
+
+        SAP ID: 81
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 29 
+
+        SAP ID: 82
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 29 
+
+        SAP ID: 84
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 08 
+
+        SAP ID: 85
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 12
+            Day: 13 
+
+        SAP ID: 86
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 02
+            Day: 01 
+
+        SAP ID: 87
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 05
+            Day: 23 
+
+        SAP ID: 89
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 23 
+
+        SAP ID: 90
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 23 
+
+        SAP ID: 91
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 08
+            Day: 06 
+
+        SAP ID: 92
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 01
+            Day: 14 
+
+        SAP ID: 93
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 07
+            Day: 22 
+
+        SAP ID: 94
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 07
+            Day: 22 
+
+        SAP ID: 95
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 07
+            Day: 29 
+
+        SAP ID: 96
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 10
+            Day: 07 
+
+        SAP ID: 99
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 02
+            Day: 10 
+
+        SAP ID: 100
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 02
+            Day: 14 
+
+        SAP ID: 101
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 02
+            Day: 07 
+
+        SAP ID: 102
+        Title: Caledonian Mercury
+        Date 
+            Year: 1802
+            Month: 07
+            Day: 01 
+
+        SAP ID: 103
+        Title: Caledonian Mercury
+        Date 
+            Year: 1810
+            Month: 06
+            Day: 09 
+
+        SAP ID: 104
+        Title: Caledonian Mercury
+        Date 
+            Year: 1812
+            Month: 08
+            Day: 29 
+
+        SAP ID: 105
+        Title: Caledonian Mercury
+        Date 
+            Year: 1812
+            Month: 10
+            Day: 03 
+
+        SAP ID: 106
+        Title: Caledonian Mercury
+        Date 
+            Year: 1812
+            Month: 10
+            Day: 03 
+
+        SAP ID: 107
+        Title: Caledonian Mercury
+        Date 
+            Year: 1812
+            Month: 11
+            Day: 09 
+
+        SAP ID: 108
+        Title: Caledonian Mercury
+        Date 
+            Year: 1813
+            Month: 10
+            Day: 16 
+
+        SAP ID: 109
+        Title: Caledonian Mercury
+        Date 
+            Year: 1813
+            Month: 10
+            Day: 07 
+
+        SAP ID: 110
+        Title: Caledonian Mercury
+        Date 
+            Year: 1813
+            Month: 12
+            Day: 30 
+
+        SAP ID: 111
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 03
+            Day: 19 
+
+        SAP ID: 112
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 05
+            Day: 26 
+
+        SAP ID: 113
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 09
+            Day: 12 
+
+        SAP ID: 114
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 10
+            Day: 15 
+
+        SAP ID: 115
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 10
+            Day: 15 
+
+        SAP ID: 116
+        Title: Caledonian Mercury
+        Date 
+            Year: 1814
+            Month: 12
+            Day: 08 
+
+        SAP ID: 117
+        Title: Caledonian Mercury
+        Date 
+            Year: 1816
+            Month: 01
+            Day: 15 
+
+        SAP ID: 118
+        Title: Caledonian Mercury
+        Date 
+            Year: 1816
+            Month: 07
+            Day: 08 
+
+        SAP ID: 119
+        Title: Caledonian Mercury
+        Date 
+            Year: 1816
+            Month: 11
+            Day: 21 
+
+        SAP ID: 120
+        Title: Aberdeen Journal
+        Date 
+            Year: 1816
+            Month: 12
+            Day: 16 
+
+        SAP ID: 121
+        Title: Caledonian Mercury
+        Date 
+            Year: 1817
+            Month: 07
+            Day: 21 
+
+        SAP ID: 122
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 01
+            Day: 01 
+
+        SAP ID: 123
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 01
+            Day: 19 
+
+        SAP ID: 124
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 01
+            Day: 19 
+
+        SAP ID: 125
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 01
+            Day: 19 
+
+        SAP ID: 126
+        Title: Aberdeen Journal
+        Date 
+            Year: 1818
+            Month: 01
+            Day: 28 
+
+        SAP ID: 127
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 07
+            Day: 16 
+
+        SAP ID: 128
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 07
+            Day: 04 
+
+        SAP ID: 129
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 09
+            Day: 05 
+
+        SAP ID: 130
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 12
+            Day: 28 
+
+        SAP ID: 131
+        Title: Caledonian Mercury
+        Date 
+            Year: 1818
+            Month: 02
+            Day: 26 
+
+        SAP ID: 132
+        Title: Scotsman
+        Date 
+            Year: 1818
+            Month: 02
+            Day: 28 
+
+        SAP ID: 133
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 10
+            Day: 13 
+
+        SAP ID: 134
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 01
+            Day: 02 
+
+        SAP ID: 135
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 01
+            Day: 20 
+
+        SAP ID: 136
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 01
+            Day: 04 
+
+        SAP ID: 137
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 03
+            Day: 29 
+
+        SAP ID: 138
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 04
+            Day: 28 
+
+        SAP ID: 139
+        Title: Scotsman
+        Date 
+            Year: 1819
+            Month: 05
+            Day: 01 
+
+        SAP ID: 140
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 05
+            Day: 26 
+
+        SAP ID: 141
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 05
+            Day: 27 
+
+        SAP ID: 142
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 05
+            Day: 27 
+
+        SAP ID: 143
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 05
+            Day: 07 
+
+        SAP ID: 144
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 06
+            Day: 02 
+
+        SAP ID: 145
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 06
+            Day: 28 
+
+        SAP ID: 146
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 06
+            Day: 28 
+
+        SAP ID: 147
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 07
+            Day: 22 
+
+        SAP ID: 148
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 07
+            Day: 28 
+
+        SAP ID: 149
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 07
+            Day: 28 
+
+        SAP ID: 150
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 07
+            Day: 07 
+
+        SAP ID: 151
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 08
+            Day: 16 
+
+        SAP ID: 152
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 08
+            Day: 25 
+
+        SAP ID: 153
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 09
+            Day: 22 
+
+        SAP ID: 154
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 10
+            Day: 11 
+
+        SAP ID: 155
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 10
+            Day: 27 
+
+        SAP ID: 156
+        Title: Aberdeen Journal
+        Date 
+            Year: 1819
+            Month: 11
+            Day: 10 
+
+        SAP ID: 157
+        Title: Caledonian Mercury
+        Date 
+            Year: 1819
+            Month: 02
+            Day: 15 
+
+        SAP ID: 158
+        Title: Caledonian Mercury
+        Date 
+            Year: 1820
+            Month: 01
+            Day: 13 
+
+        SAP ID: 159
+        Title: Caledonian Mercury
+        Date 
+            Year: 1820
+            Month: 01
+            Day: 24 
+
+        SAP ID: 160
+        Title: Scotsman
+        Date 
+            Year: 1820
+            Month: 01
+            Day: 29 
+
+        SAP ID: 161
+        Title: Scotsman
+        Date 
+            Year: 1820
+            Month: 01
+            Day: 08 
+
+        SAP ID: 162
+        Title: Glasgow Herald
+        Date 
+            Year: 1820
+            Month: 04
+            Day: 24 
+
+        SAP ID: 163
+        Title: Caledonian Mercury
+        Date 
+            Year: 1820
+            Month: 04
+            Day: 24 
+
+        SAP ID: 164
+        Title: Scotsman
+        Date 
+            Year: 1820
+            Month: 05
+            Day: 20 
+
+        SAP ID: 165
+        Title: Glasgow Herald
+        Date 
+            Year: 1820
+            Month: 05
+            Day: 22 
+
+        SAP ID: 166
+        Title: Caledonian Mercury
+        Date 
+            Year: 1820
+            Month: 06
+            Day: 17 
+
+        SAP ID: 167
+        Title: Caledonian Mercury
+        Date 
+            Year: 1820
+            Month: 07
+            Day: 01 
+
+        SAP ID: 168
+        Title: Aberdeen Journal
+        Date 
+            Year: 1820
+            Month: 07
+            Day: 12 
+
+        SAP ID: 169
+        Title: Aberdeen Journal
+        Date 
+            Year: 1820
+            Month: 07
+            Day: 12 
+
+        SAP ID: 170
+        Title: Aberdeen Journal
+        Date 
+            Year: 1820
+            Month: 07
+            Day: 12 
+
+        SAP ID: 171
+        Title: Aberdeen Journal
+        Date 
+            Year: 1820
+            Month: 07
+            Day: 19 
+
+        SAP ID: 172
+        Title: Aberdeen Journal
+        Date 
+            Year: 1820
+            Month: 08
+            Day: 02 
+
+        SAP ID: 173
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 01
+            Day: 17 
+
+        SAP ID: 174
+        Title: Scotsman
+        Date 
+            Year: 1821
+            Month: 01
+            Day: 26 
+
+        SAP ID: 175
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 01
+            Day: 31 
+
+        SAP ID: 176
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 03
+            Day: 14 
+
+        SAP ID: 177
+        Title: Glasgow Herald
+        Date 
+            Year: 1821
+            Month: 03
+            Day: 30 
+
+        SAP ID: 178
+        Title: Caledonian Mercury
+        Date 
+            Year: 1821
+            Month: 05
+            Day: 03 
+
+        SAP ID: 179
+        Title: Scotsman
+        Date 
+            Year: 1821
+            Month: 06
+            Day: 02 
+
+        SAP ID: 180
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 06
+            Day: 27 
+
+        SAP ID: 181
+        Title: Caledonian Mercury
+        Date 
+            Year: 1821
+            Month: 06
+            Day: 09 
+
+        SAP ID: 182
+        Title: Caledonian Mercury
+        Date 
+            Year: 1821
+            Month: 07
+            Day: 16 
+
+        SAP ID: 183
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 08
+            Day: 15 
+
+        SAP ID: 184
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 10
+            Day: 17 
+
+        SAP ID: 185
+        Title: Aberdeen Journal
+        Date 
+            Year: 1821
+            Month: 11
+            Day: 07 
+
+        SAP ID: 186
+        Title: Glasgow Herald
+        Date 
+            Year: 1821
+            Month: 02
+            Day: 05 
+
+        SAP ID: 187
+        Title: Glasgow Herald
+        Date 
+            Year: 1822
+            Month: 01
+            Day: 28 
+
+        SAP ID: 188
+        Title: Scotsman
+        Date 
+            Year: 1822
+            Month: 10
+            Day: 19 
+
+        SAP ID: 189
+        Title: Scotsman
+        Date 
+            Year: 1822
+            Month: 10
+            Day: 19 
+
+        SAP ID: 190
+        Title: Scotsman
+        Date 
+            Year: 1823
+            Month: 06
+            Day: 14 
+
+        SAP ID: 191
+        Title: Scotsman
+        Date 
+            Year: 1823
+            Month: 09
+            Day: 10 
+
+        SAP ID: 192
+        Title: Scotsman
+        Date 
+            Year: 1823
+            Month: 09
+            Day: 03 
+
+        SAP ID: 193
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 05
+            Day: 05 
+
+        SAP ID: 194
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 01
+            Day: 21 
+
+        SAP ID: 195
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 01
+            Day: 31 
+
+        SAP ID: 196
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 03
+            Day: 27 
+
+        SAP ID: 197
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 03
+            Day: 06 
+
+        SAP ID: 198
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 04
+            Day: 03 
+
+        SAP ID: 199
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 05
+            Day: 12 
+
+        SAP ID: 200
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 06
+            Day: 09 
+
+        SAP ID: 201
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 08
+            Day: 25 
+
+        SAP ID: 202
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 02
+            Day: 11 
+
+        SAP ID: 203
+        Title: Scotsman
+        Date 
+            Year: 1824
+            Month: 02
+            Day: 28 
+
+        SAP ID: 204
+        Title: Scotsman
+        Date 
+            Year: 1825
+            Month: 10
+            Day: 19 
+
+        SAP ID: 205
+        Title: Scotsman
+        Date 
+            Year: 1827
+            Month: 03
+            Day: 03 
+
+        SAP ID: 206
+        Title: Scotsman
+        Date 
+            Year: 1828
+            Month: 04
+            Day: 02 
+
+        SAP ID: 207
+        Title: Scotsman
+        Date 
+            Year: 1828
+            Month: 05
+            Day: 07 
+
+        SAP ID: 208
+        Title: Scotsman
+        Date 
+            Year: 1828
+            Month: 06
+            Day: 25 
+
+        SAP ID: 209
+        Title: Scotsman
+        Date 
+            Year: 1828
+            Month: 08
+            Day: 09 
+
+        SAP ID: 210
+        Title: Scotsman
+        Date 
+            Year: 1828
+            Month: 12
+            Day: 24 
+
+        SAP ID: 211
+        Title: Scotsman
+        Date 
+            Year: 1829
+            Month: 05
+            Day: 20 
+
+        SAP ID: 212
+        Title: Scotsman
+        Date 
+            Year: 1829
+            Month: 06
+            Day: 10 
+
+        SAP ID: 213
+        Title: Scotsman
+        Date 
+            Year: 1829
+            Month: 07
+            Day: 25 
+
+        SAP ID: 214
+        Title: Scotsman
+        Date 
+            Year: 1829
+            Month: 08
+            Day: 19 
+
+        SAP ID: 215
+        Title: Scotsman
+        Date 
+            Year: 1829
+            Month: 11
+            Day: 04 
+
+        SAP ID: 216
+        Title: Scotsman
+        Date 
+            Year: 1830
+            Month: 04
+            Day: 24 
+
+        SAP ID: 217
+        Title: Scotsman
+        Date 
+            Year: 1830
+            Month: 10
+            Day: 09 
+
+        SAP ID: 218
+        Title: Scotsman
+        Date 
+            Year: 1830
+            Month: 11
+            Day: 10 
+
+        SAP ID: 219
+        Title: Scotsman
+        Date 
+            Year: 1831
+            Month: 06
+            Day: 29 
+
+        SAP ID: 220
+        Title: Scotsman
+        Date 
+            Year: 1831
+            Month: 06
+            Day: 04 
+
+        SAP ID: 221
+        Title: Scotsman
+        Date 
+            Year: 1831
+            Month: 07
+            Day: 27 
+
+        SAP ID: 222
+        Title: Scotsman
+        Date 
+            Year: 1831
+            Month: 12
+            Day: 17 
+
+        SAP ID: 223
+        Title: Scotsman
+        Date 
+            Year: 1831
+            Month: 02
+            Day: 05 
+
+        SAP ID: 224
+        Title: Scotsman
+        Date 
+            Year: 1832
+            Month: 03
+            Day: 03 
+
+        SAP ID: 225
+        Title: Scotsman
+        Date 
+            Year: 1832
+            Month: 04
+            Day: 07 
+
+        SAP ID: 226
+        Title: Scotsman
+        Date 
+            Year: 1832
+            Month: 10
+            Day: 13 
+
+        SAP ID: 227
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 05
+            Day: 29 
+
+        SAP ID: 228
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 06
+            Day: 29 
+
+        SAP ID: 229
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 07
+            Day: 10 
+
+        SAP ID: 230
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 08
+            Day: 03 
+
+        SAP ID: 231
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 08
+            Day: 07 
+
+        SAP ID: 232
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 09
+            Day: 25 
+
+        SAP ID: 233
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 10
+            Day: 05 
+
+        SAP ID: 234
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 12
+            Day: 07 
+
+        SAP ID: 235
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 02
+            Day: 02 
+
+        SAP ID: 236
+        Title: Scotsman
+        Date 
+            Year: 1833
+            Month: 02
+            Day: 02 
+
+        SAP ID: 237
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 04
+            Day: 16 
+
+        SAP ID: 238
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 06
+            Day: 18 
+
+        SAP ID: 239
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 06
+            Day: 28 
+
+        SAP ID: 240
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 07
+            Day: 02 
+
+        SAP ID: 241
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 07
+            Day: 23 
+
+        SAP ID: 242
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 07
+            Day: 05 
+
+        SAP ID: 243
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 08
+            Day: 02 
+
+        SAP ID: 244
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 09
+            Day: 24 
+
+        SAP ID: 245
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 11
+            Day: 11 
+
+        SAP ID: 246
+        Title: Scotsman
+        Date 
+            Year: 1834
+            Month: 11
+            Day: 08 
+
+        SAP ID: 247
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 05
+            Day: 13 
+
+        SAP ID: 248
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 07
+            Day: 08 
+
+        SAP ID: 249
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 08
+            Day: 05 
+
+        SAP ID: 250
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 08
+            Day: 05 
+
+        SAP ID: 251
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 09
+            Day: 16 
+
+        SAP ID: 252
+        Title: Scotsman
+        Date 
+            Year: 1835
+            Month: 11
+            Day: 21 
+
+        SAP ID: 253
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 03
+            Day: 12 
+
+        SAP ID: 254
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 03
+            Day: 12 
+
+        SAP ID: 255
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 03
+            Day: 26 
+
+        SAP ID: 256
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 04
+            Day: 16 
+
+        SAP ID: 257
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 04
+            Day: 09 
+
+        SAP ID: 258
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 05
+            Day: 18 
+
+        SAP ID: 259
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 07
+            Day: 16 
+
+        SAP ID: 260
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 07
+            Day: 16 
+
+        SAP ID: 261
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 07
+            Day: 06 
+
+        SAP ID: 262
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 08
+            Day: 10 
+
+        SAP ID: 263
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 08
+            Day: 10 
+
+        SAP ID: 264
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 10
+            Day: 26 
+
+        SAP ID: 265
+        Title: Scotsman
+        Date 
+            Year: 1836
+            Month: 12
+            Day: 07 
+
+        SAP ID: 266
+        Title: Scotsman
+        Date 
+            Year: 1837
+            Month: 05
+            Day: 10 
+
+        SAP ID: 267
+        Title: Scotsman
+        Date 
+            Year: 1837
+            Month: 06
+            Day: 07 
+
+        SAP ID: 268
+        Title: Scotsman
+        Date 
+            Year: 1837
+            Month: 07
+            Day: 01 
+
+        SAP ID: 269
+        Title: Scotsman
+        Date 
+            Year: 1837
+            Month: 07
+            Day: 09 
+
+        SAP ID: 270
+        Title: Scotsman
+        Date 
+            Year: 1837
+            Month: 11
+            Day: 22 
+
+        SAP ID: 271
+        Title: Scotsman
+        Date 
+            Year: 1838
+            Month: 06
+            Day: 09 
+
+        SAP ID: 272
+        Title: Scotsman
+        Date 
+            Year: 1838
+            Month: 09
+            Day: 22 
+
+        SAP ID: 273
+        Title: Scotsman
+        Date 
+            Year: 1838
+            Month: 09
+            Day: 22 
+
+        SAP ID: 274
+        Title: Scotsman
+        Date 
+            Year: 1838
+            Month: 11
+            Day: 24 
+
+        SAP ID: 275
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 04
+            Day: 10 
+
+        SAP ID: 276
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 04
+            Day: 03 
+
+        SAP ID: 277
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 05
+            Day: 11 
+
+        SAP ID: 278
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 06
+            Day: 05 
+
+        SAP ID: 279
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 10 
+
+        SAP ID: 280
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 24 
+
+        SAP ID: 281
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 25 
+
+        SAP ID: 282
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 27 
+
+        SAP ID: 283
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 27 
+
+        SAP ID: 284
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 07
+            Day: 06 
+
+        SAP ID: 285
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 08
+            Day: 28 
+
+        SAP ID: 286
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 09
+            Day: 11 
+
+        SAP ID: 287
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 09
+            Day: 28 
+
+        SAP ID: 288
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 11
+            Day: 23 
+
+        SAP ID: 289
+        Title: Scotsman
+        Date 
+            Year: 1839
+            Month: 11
+            Day: 24 
+
+        SAP ID: 290
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 04
+            Day: 18 
+
+        SAP ID: 291
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 05
+            Day: 13 
+
+        SAP ID: 292
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 07
+            Day: 29 
+
+        SAP ID: 293
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 08
+            Day: 12 
+
+        SAP ID: 294
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 08
+            Day: 15 
+
+        SAP ID: 295
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 10
+            Day: 28 
+
+        SAP ID: 296
+        Title: Scotsman
+        Date 
+            Year: 1840
+            Month: 12
+            Day: 05 
+
+        SAP ID: 297
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 03
+            Day: 20 
+
+        SAP ID: 298
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 03
+            Day: 31 
+
+        SAP ID: 299
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 04
+            Day: 14 
+
+        SAP ID: 300
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 04
+            Day: 07 
+
+        SAP ID: 301
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 09
+            Day: 22 
+
+        SAP ID: 302
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 10
+            Day: 09 
+
+        SAP ID: 304
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 11
+            Day: 17 
+
+        SAP ID: 305
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 11
+            Day: 24 
+
+        SAP ID: 306
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 12
+            Day: 22 
+
+        SAP ID: 307
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 12
+            Day: 25 
+
+        SAP ID: 308
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 12
+            Day: 29 
+
+        SAP ID: 309
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 12
+            Day: 29 
+
+        SAP ID: 310
+        Title: Scotsman
+        Date 
+            Year: 1841
+            Month: 02
+            Day: 17 
+
+        SAP ID: 311
+        Title: Scotsman
+        Date 
+            Year: 1842
+            Month: 03
+            Day: 19 
+
+        SAP ID: 312
+        Title: Scotsman
+        Date 
+            Year: 1842
+            Month: 05
+            Day: 18 
+
+        SAP ID: 313
+        Title: Scotsman
+        Date 
+            Year: 1842
+            Month: 02
+            Day: 05 
+
+        SAP ID: 314
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 01 
+
+        SAP ID: 315
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 01 
+
+        SAP ID: 316
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 01
+            Day: 07 
+
+        SAP ID: 317
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 27 
+
+        SAP ID: 318
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 06
+            Day: 27 
+
+        SAP ID: 319
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 05
+            Day: 02 
+
+        SAP ID: 320
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 03
+            Day: 04 
+
+        SAP ID: 321
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 05 
+
+        SAP ID: 322
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 08 
+
+        SAP ID: 323
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 11
+            Day: 08 
+
+        SAP ID: 324
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 01
+            Day: 21 
+
+        SAP ID: 326
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 09
+            Day: 20 
+
+        SAP ID: 327
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 02
+            Day: 07 
+
+        SAP ID: 328
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 01
+            Day: 21 
+
+        SAP ID: 329
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 01
+            Day: 31 
+
+        SAP ID: 330
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 01
+            Day: 07 
+
+        SAP ID: 331
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 07
+            Day: 18 
+
+        SAP ID: 332
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 06
+            Day: 25 
+
+        SAP ID: 333
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 06
+            Day: 24 
+
+        SAP ID: 334
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 01
+            Day: 10 
+
+        SAP ID: 335
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 05
+            Day: 09 
+
+        SAP ID: 336
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 05
+            Day: 13 
+
+        SAP ID: 337
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 20 
+
+        SAP ID: 338
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 23 
+
+        SAP ID: 339
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 04
+            Day: 16 
+
+        SAP ID: 340
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 06
+            Day: 21 
+
+        SAP ID: 341
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 02
+            Day: 22 
+
+        SAP ID: 97
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 09
+            Day: 12 
+
+        SAP ID: 342
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 07
+            Day: 12 
+
+        SAP ID: 343
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 06
+            Day: 18 
+
+        SAP ID: 344
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 05
+            Day: 17 
+
+        SAP ID: 345
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 05
+            Day: 24 
+
+        SAP ID: 346
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 10
+            Day: 04 
+
+        SAP ID: 347
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 02
+            Day: 21 
+
+        SAP ID: 348
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 02
+            Day: 21 
+
+        SAP ID: 349
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1791
+            Month: 07
+            Day: 25 
+
+        SAP ID: 351
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 08
+            Day: 17 
+
+        SAP ID: 352
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 08
+            Day: 20 
+
+        SAP ID: 353
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 12
+            Day: 14 
+
+        SAP ID: 354
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 10
+            Day: 08 
+
+        SAP ID: 356
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 08
+            Day: 30 
+
+        SAP ID: 357
+        Title: Caledonian Mercury
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 06 
+
+        SAP ID: 358
+        Title: Aberdeen Journal
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 08 
+
+        SAP ID: 359
+        Title: Sydney Gazette
+        Date 
+            Year: 1815
+            Month: 11
+            Day: 08 
+
+        SAP ID: 360
+        Title: Morning Chronicle
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 03 
+
+        SAP ID: 361
+        Title: London Times
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 02 
+
+        SAP ID: 362
+        Title: London Star
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 01 
+
+        SAP ID: 363
+        Title: London Courier
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 02 
+
+        SAP ID: 364
+        Title: London St James Chronicle and Evening Post
+        Date 
+            Year: 1817
+            Month: 01
+            Day: 02 
+
+        SAP ID: 365
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 08
+            Day: 30 
+
+        SAP ID: 366
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 01
+            Day: 24 
+
+        SAP ID: 367
+        Title: Glasgow Herald
+        Date 
+            Year: 1822
+            Month: 01
+            Day: 28 
+
+        SAP ID: 368
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 07
+            Day: 25 
+
+        SAP ID: 369
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 01
+            Day: 11 
+
+        SAP ID: 370
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 09
+            Day: 17 
+
+        SAP ID: 371
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1793
+            Month: 12
+            Day: 13 
+
+        SAP ID: 372
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 01
+            Day: 06 
+
+        SAP ID: 373
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 01
+            Day: 27 
+
+        SAP ID: 374
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 07
+            Day: 18 
+
+        SAP ID: 375
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 07
+            Day: 21 
+
+        SAP ID: 376
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 07
+            Day: 11 
+
+        SAP ID: 377
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 07
+            Day: 18 
+
+        SAP ID: 378
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1794
+            Month: 11
+            Day: 17 
+
+        SAP ID: 379
+        Title: Trewman's Exeter Flying Post
+        Date 
+            Year: 1810
+            Month: 01
+            Day: 11 
+
+        SAP ID: 380
+        Title: Examiner
+        Date 
+            Year: 1810
+            Month: 01
+            Day: 17 
+
+        SAP ID: 381
+        Title: Morning Chronicle
+        Date 
+            Year: 1810
+            Month: 01
+            Day: 06 
+
+        SAP ID: 382
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 28 
+
+        SAP ID: 383
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 28 
+
+        SAP ID: 384
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 28 
+
+        SAP ID: 385
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 27 
+
+        SAP ID: 386
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 11
+            Day: 13 
+
+        SAP ID: 387
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 07 
+
+        SAP ID: 388
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 07 
+
+        SAP ID: 389
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 01
+            Day: 01 
+
+        SAP ID: 390
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 02 
+
+        SAP ID: 391
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 23 
+
+        SAP ID: 392
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 25 
+
+        SAP ID: 393
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 25 
+
+        SAP ID: 394
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 25 
+
+        SAP ID: 395
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 21 
+
+        SAP ID: 396
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1789
+            Month: 09
+            Day: 21 
+
+        SAP ID: 397
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 19 
+
+        SAP ID: 398
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 15 
+
+        SAP ID: 399
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 08
+            Day: 13 
+
+        SAP ID: 400
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 15 
+
+        SAP ID: 401
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 12 
+
+        SAP ID: 402
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1792
+            Month: 08
+            Day: 13 
+
+        SAP ID: 403
+        Title: Glasgow Advertiser
+        Date 
+            Year: 1790
+            Month: 11
+            Day: 08 

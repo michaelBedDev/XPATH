@@ -11,21 +11,24 @@
         </head>
 
         <body>
-            <table>
-                <xsl:apply-templates select="teaches-tuple"/>
+            <table border="1">
+                <tbody>
+                    <xsl:apply-templates select="teaches/teaches-tuple"/>
+                </tbody>
             </table>
         </body>
     </xsl:template>
 
     <xsl:template match="teaches-tuple">
-        <tr>
-            <th><xsl:value-of select="teaches/teaches-tuple/@course/text()"/></th>
-            <th><xsl:value-of select="teaches/teaches-tuple/@lecturer/text()"/></th>
-        </tr>
-        <tr>
-            <td><xsl:value-of select="/@course"/></td>
-            <td><xsl:value-of select="/@lecturer"/></td>
-        </tr>
-    </xsl:template>
 
+            <tr>
+                <th><xsl:value-of select="@course"/></th>
+            </tr>
+
+            <tr>
+                <td><xsl:value-of select="@course"/></td>
+                <td><xsl:value-of select="@lecturer"/></td>
+            </tr>
+
+    </xsl:template>
 </xsl:stylesheet>
